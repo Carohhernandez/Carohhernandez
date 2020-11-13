@@ -6,10 +6,10 @@
 🌱 I am currently learning Angular </br>
 
 ## 🧰 Languages and Tools:
-
-🔵 HTML5 🔵 CSS3 🔵 BOOTSTRAP 🔵 JAVASCRIPT 🔵 JQUERY 🔵 PHP  🔵 MYSQL 
+<div align="center">
+🔵 HTML5 🔵 CSS3 🔵 BOOTSTRAP 🔵 JAVASCRIPT 🔵 JQUERY 🔵 PHP  🔵 MYSQL </br>
 🟣 VSC 🟣 ECLIPSE 🟣 GIT 🟣 ADOBE XD 🟣 ADOBE PHOTOSHOP 
-
+</div>
 ## ✉️ Find me on:
 
 <p align="center">
