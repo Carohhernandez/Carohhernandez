@@ -16,6 +16,7 @@
 ## 🧰 Languages and Tools:
 <div align="center">
 🔵 HTML5 🔵 CSS3 🔵 BOOTSTRAP 🔵 JAVASCRIPT 🔵 JQUERY 🔵 PHP  🔵 MYSQL </br>
+</br>
 🟣 VSC 🟣 ECLIPSE 🟣 GIT 🟣 ADOBE XD 🟣 ADOBE PHOTOSHOP 
 </div>
 
