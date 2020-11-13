@@ -15,9 +15,7 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-html5" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
-CSS3
- 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  jquery, PHP
