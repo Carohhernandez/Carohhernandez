@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Carohhernandez, but you can call me Caro
 
-🎓 I am a Computer Application Development student at UNICEN in Tandil.
+🎓 I am a Computer Application Development student at UNICEN in Tandil. </br>
 🌎 I live in Argentina. 
 🔭 I am currently working as a front end developer in gA, a Globant division. 
 🌱 I am currently learning Angular
