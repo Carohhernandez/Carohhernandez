@@ -15,7 +15,7 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://www.jsdelivr.com/package/programming-languages-logos/html/npm/@programming-languages-logos/html@0.0.1/html.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.iconfinder.com/search/?q=html5" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 CSS3
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
