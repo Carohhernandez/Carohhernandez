@@ -2,8 +2,8 @@
 
 🎓 I am a Computer Application Development student at UNICEN in Tandil. </br>
 🌎 I live in Argentina. </br>
-🔭 I am currently working as a front end developer in gA, a Globant division. </br>
-🌱 I am currently learning Angular </br>
+🔭 I am currently working as a React front end developer. </br>
+🌱 Always learning new things </br>
 
 ## ✉️ Find me on:
 
@@ -15,7 +15,7 @@
 
 ## 🧰 Languages and Tools:
 <div align="center">
-🔵 HTML5 🔵 CSS3 🔵 BOOTSTRAP 🔵 JAVASCRIPT 🔵 JQUERY 🔵 PHP  🔵 MYSQL </br>
+🔵 REACT 🔵 TYPESCRIPT 🔵 JQUERY 🔵 BOOTSTRAP 🔵 SQL </br>
 </br>
 🟣 VSC 🟣 ECLIPSE 🟣 GIT 🟣 ADOBE XD 🟣 ADOBE PHOTOSHOP 
 </div>
